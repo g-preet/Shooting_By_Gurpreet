@@ -12,7 +12,7 @@ namespace UnitTestProject1
         {
             ShootClass obj = new ShootClass();
 
-            obj.ShootgpLoop(5);
+            obj.ShootgpLoop(4);
             Assert.IsTrue(true);
         }
     }
